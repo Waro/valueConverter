@@ -1,6 +1,4 @@
-test("the amount is a number", () =>{
-    expect()
-})
+
 
 test("One euro should be 1.206 dollars", function(){
 
